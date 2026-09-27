@@ -1,3 +1,17 @@
+#💫 **Hi 👋, I'm Om Tayade** 
+A passionate Cloud Engineer || Network Engineer ||
+
+Email Me ✉️ **omtayde017@gmail.com** For Collaboration/Project or Anything Else. 😊
+
+- 🔭 **I’m currently working on:** ON MY FIRST PROJECT 
+- 🌱 **I’m currently learning:** BCA First Year , Programming in C  
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** omtayde017@gmail.com
+- 😄 **Pronouns:** Om 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OMcloud2007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Om Tayde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omtayde017@gmail.com) 
@@ -9,8 +23,6 @@
 ![](https://streak-stats.demolab.com/?user=OMcloud2007&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OMcloud2007&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OMcloud2007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
